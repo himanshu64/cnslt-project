@@ -1,0 +1,16 @@
+header{
+    background:  #337AB7;
+}
+#navbar{
+    float: right;
+}
+.second-row{
+    
+    margin-top: 34px;
+
+}
+.third-row{
+    margin-top: 34px;
+}
+
+.brightness {-webkit-filter: brightness(0.25); filter: brightness(0.25);}
